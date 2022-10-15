@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace EquacaoTerceiroGrau
+namespace EquacaoSegundoGrau
 {
     internal class Program
     {
