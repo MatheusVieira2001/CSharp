@@ -2,7 +2,7 @@
 
 namespace EquacaoSegundoGrau
 {
-    internal class Program
+    internal class EquacaoSegundoGrau
     {
         static void Main(string[] args)
         {
