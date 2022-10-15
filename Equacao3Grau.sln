@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquacaoTerceiroGrau", "Equacao\EquacaoTerceiroGrau.csproj", "{5D70B016-D801-461F-A596-A810016B8C65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquacaoSegundoGrau", "Equacao\EquacaoSegundoGrau.csproj", "{5D70B016-D801-461F-A596-A810016B8C65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
