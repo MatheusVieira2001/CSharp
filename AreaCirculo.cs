@@ -3,6 +3,7 @@ using System.Diagnostics;
 using System.Globalization;
 
 namespace CalculoAreaCirculo
+{    
     internal class AreaCirculo
     {
         static void Main(string[] args)
