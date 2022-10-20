@@ -4,7 +4,7 @@ using System.Globalization;
 
 namespace Course
 {
-    class Program
+    class FormulaHeron
     {
         static void Main(string[] args)
         {
